@@ -1,1 +1,3 @@
 Hello World!
+
+EDIT: Testing commit message configuration for VS Code.
